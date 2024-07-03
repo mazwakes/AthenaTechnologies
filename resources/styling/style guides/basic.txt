@@ -1,0 +1,6 @@
+Color Palette
+Main color: #004D80
+Secondary color: #B0B0B0
+Tertiary color: #008080
+Background color: #FFFFFF
+Text color: #333333
